@@ -40,5 +40,13 @@ public class castingTest {
 		double num3 = Double.parseDouble("3.123") + 7;
 		System.out.println(num3);
 		
+		
+		//10 --> "10"
+		//10 + ""
+		
+		String num4 = 10 + "";
+		System.out.println(num4 + 20);
+			
+		
 	}
 }
