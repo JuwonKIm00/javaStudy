@@ -1,4 +1,4 @@
 # javaStudy
-myFirstJavaStudy
+JavaStudy
 
 javaStudy~    ing..........
